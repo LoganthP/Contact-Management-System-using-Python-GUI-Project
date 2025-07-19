@@ -19,6 +19,5 @@ The project is a simple GUI application that uses the Tkinter module in order to
 6. Run the py file to launch the program.
 
 FOR YOUR OWN SAFETY, PLEASE:
-
 1. Re-scan downloaded files using your personal virus checker before using it.
 2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
